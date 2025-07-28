@@ -1,0 +1,19 @@
+{
+    "migrations": "0001_user",
+    "module": "admin",
+    "model": "User",
+    "update": 0,
+    "data": [
+        {
+            "data": {
+                "id": "550e8400-e29b-41d4-a716-446655440000",
+                "name": "Admin",
+                "username": "admin",
+                "email": "admin@observability.com.br",
+                "super_user": 1,
+                "password": "$5$rounds=535000$sTeUPlf3ts8bYCsQ$M6OtqFaLABpvGbb8WCSHVqcSn7cf43krh6Bjvx8sXn4"
+                
+            }
+        }
+    ]
+}
